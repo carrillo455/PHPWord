@@ -1,0 +1,717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/PhpWord/PhpWord.php",
+			"settings":
+			{
+				"buffer_size": 10120,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "samples/Sample_11_ReadWord2007.php",
+			"settings":
+			{
+				"buffer_size": 387,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/PhpWord/IOFactory.php",
+			"settings":
+			{
+				"buffer_size": 3166,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/PhpWord/Reader/HTML.php",
+			"settings":
+			{
+				"buffer_size": 1436,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/PhpWord/Shared/Html.php",
+			"settings":
+			{
+				"buffer_size": 14069,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "samples/Sample_Header.php",
+			"settings":
+			{
+				"buffer_size": 4964,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Context",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Watch",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Stack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "=> D:\\wamp64\\www\\PHPWord\\src\\PhpWord\\Shared\\Html.php\n  |+| 102\n",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Windows",
+				"name": "Xdebug Breakpoint",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "xdeb",
+		"selected_items":
+		[
+			[
+				"xdeb",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebug",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"x",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdebu",
+				"Preferences: Xdebug Settings – Default"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 604.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp64/www/PHPWord",
+		"/D/wamp64/www/PHPWord/samples",
+		"/D/wamp64/www/PHPWord/src",
+		"/D/wamp64/www/PHPWord/src/PhpWord",
+		"/D/wamp64/www/PHPWord/src/PhpWord/Reader",
+		"/D/wamp64/www/PHPWord/src/PhpWord/Shared"
+	],
+	"file_history":
+	[
+		"/D/wamp64/www/PHPWord/phpword.sublime-workspace",
+		"/C/Users/ccp_1/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.log",
+		"/C/Users/ccp_1/AppData/Roaming/Sublime Text 3/Packages/User/phpword.sublime-project",
+		"/C/Users/ccp_1/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/Users/ccp_1/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/D/wamp64/logs/apache_error.log",
+		"/D/wamp64/www/PHPWord/vendor/theseer/fdomdocument/src/fDOMDocument.php",
+		"/C/Users/ccp_1/Downloads/bd_sistap.sql",
+		"/C/Users/ccp_1/Downloads/demo_atc_altamira.sql",
+		"/D/wamp64/www/poliglotam/tampico.sql",
+		"/D/wamp64/www/wamplangues/add_vhost_english.php",
+		"/D/wamp64/www/poliglotam/public/css/bootstrap-datetimepicker.css",
+		"/D/wamp64/www/poliglotam/public/js/bootbox.min.js",
+		"/D/wamp64/www/poliglotam/readme.md",
+		"/D/wamp64/www/poliglotam/.gitignore",
+		"/D/wamp64/www/poliglotam/calculo_isr.php",
+		"/C/Users/ccp_1/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ccp_1/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"xdebu",
+			"settings",
+			"DOMDocument",
+			"HTML",
+			"html",
+			"<table>",
+			"html",
+			"$content",
+			"content",
+			"file",
+			"departamentos",
+			"dependencias",
+			"siaweb",
+			"ALGORITHM=UNDEFINED DEFINER=`siaweb`@`208.113.128.0/255.255.128.0` SQL SECURITY DEFINER",
+			"siaweb",
+			"VIEW",
+			"siaweb",
+			" DEFINER=`siaweb`@`208.113.128.0/255.255.128.0`",
+			"` ",
+			" DEFINER=`siaweb`@`208.113.128.0/255.255.128.0`"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Preprocess"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/PhpWord/PhpWord.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8471,
+								8475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "samples/Sample_11_ReadWord2007.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/PhpWord/IOFactory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2620,
+								2624
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1670.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/PhpWord/Reader/HTML.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/PhpWord/Shared/Html.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1335,
+								1335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "samples/Sample_Header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4964,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3522,
+								3522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "phpword.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"domdoc",
+				"vendor\\theseer\\fdomdocument\\src\\fDOMDocument.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"xdebug":
+		{
+			"restore_index":
+			{
+				"152":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"153":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"154":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"159":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"160":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"161":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 367.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
