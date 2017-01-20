@@ -9,7 +9,7 @@ _build
 phpunit.xml
 composer.lock
 composer.phar
-vendor
+#vendor
 /report
 /samples/resources
 /samples/results

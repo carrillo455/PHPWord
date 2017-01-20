@@ -7,8 +7,10 @@ $source = __DIR__ . "/resources/{$name}.docx";
 
 echo date('H:i:s'), " Reading contents from `{$source}`", EOL;
 $phpWord = \PhpOffice\PhpWord\IOFactory::load($source);
+// echo $phpWord;
 
 // Save file
+$writers = array('HTML' => 'html');
 echo write($phpWord, basename(__FILE__, '.php'), $writers);
 if (!CLI) {
     include_once 'Sample_Footer.php';

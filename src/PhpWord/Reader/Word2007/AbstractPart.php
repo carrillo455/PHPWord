@@ -264,6 +264,7 @@ abstract class AbstractPart
         $table = $parent->addTable($tblStyle);
         $tblNodes = $xmlReader->getElements('*', $domNode);
         foreach ($tblNodes as $tblNode) {
+
             if ('w:tblGrid' == $tblNode->nodeName) { // Column
                 // @todo Do something with table columns
 
@@ -284,6 +285,7 @@ abstract class AbstractPart
                         // @todo Do something with row style
 
                     } elseif ('w:tc' == $rowNode->nodeName) { // Cell
+                        // var_dump($rowNode);
                         $cellWidth = $xmlReader->getAttribute('w:w', $rowNode, 'w:tcPr/w:tcW');
                         $cellStyle = null;
                         $cellStyleNode = $xmlReader->getElement('w:tcPr', $rowNode);
@@ -294,8 +296,11 @@ abstract class AbstractPart
                         $cell = $row->addCell($cellWidth, $cellStyle);
                         $cellNodes = $xmlReader->getElements('*', $rowNode);
                         foreach ($cellNodes as $cellNode) {
+                            // var_dump($cellNode);
                             if ('w:p' == $cellNode->nodeName) { // Paragraph
                                 $this->readParagraph($xmlReader, $cellNode, $cell, $docPart);
+                            } else if ('w:tbl' == $cellNode->nodeName) {
+                                $this->readTable($xmlReader, $cellNode, $parent, $docPart);
                             }
                         }
                     }
